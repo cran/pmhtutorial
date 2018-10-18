@@ -44,11 +44,11 @@ See Section 4.2 in the reference for more details.
     example2_lgss(noBurnInIterations=5, noIterations=10)
 }
 \donttest{
-    example2_lgss(noBurnInIterations=500, noIterations=5000)
+    example2_lgss(noBurnInIterations=200, noIterations=1000)
 }
 }
 \references{
-Dahlin, J. & Schön, T. B. "Getting started with particle 
+Dahlin, J. & Schon, T. B. "Getting started with particle 
 Metropolis-Hastings for inference in nonlinear dynamical models." 
 pre-print, arXiv:1511.01707, 2017.
 }
